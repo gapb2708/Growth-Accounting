@@ -22,7 +22,7 @@ For the second part: We have a dataset for 2 countries with their Labor (L), Wag
 
 We suppose that all economies follow a typical Cobb-Douglas production function:
 
-$$Y=AK_t^{\alpha }L_t^{\alpha -1}
+$$Y=AK_t^{\alpha }L_t^{\alpha -1}$$
 
 We calculate the share of production ($\alpha$) as:
 
@@ -38,4 +38,4 @@ With this $\Delta$ we take the average for the first 25 years and the last 25 ye
 
 Finally, We define the contribution of each variable to the GDP growth for the first and last 25 years as
 
-$$\gamma K_{2,25}=\dfrac{\sum ^{25}_{t=2} \alpha\Delta K}{\sum ^{25}_{t=2} \Delta Y}$$
+$$\gamma K_{2,25}=\dfrac{\sum^{25}_{t=2} \alpha\Delta K}{\sum^{25}_{t=2} \Delta Y}$$
