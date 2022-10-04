@@ -14,6 +14,6 @@ $$Tendency_{i,t}=GDP_{t}( 1+r_{i,t}) $$
 
 After doing this we take the logarithm of the GPD per capita and Tendency per capita of each country and substract them. The logarithmic difference is the cycle and is defined as:
 
-$$cycle_{i,t}=\ln GDP_{i,t}-\ln Tendency_{i,t}
+$$cycle_{i,t}=\ln GDP_{i,t}-\ln Tendency_{i,t}$$
 
 We calculate the average of the economic cycles for each country
