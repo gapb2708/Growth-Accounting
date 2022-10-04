@@ -40,4 +40,4 @@ Finally, We define the contribution of each variable to the GDP growth for the f
 
 $$\gamma K_{2,25}=\dfrac{\sum_{t=2}^{25} \alpha\overline{\Delta }K}{\sum_{t=2}^{25} \overline{\Delta }Y}$$
 
-$$\sum_{t=2}^{25}$$
+$$\sum_{t=2}^{25} \alpha\overline{\Delta }K$$
