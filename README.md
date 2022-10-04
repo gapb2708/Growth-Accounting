@@ -39,3 +39,7 @@ With this $\Delta$ we take the average for the first 25 years and the last 25 ye
 Finally, We define the contribution of each variable to the GDP growth for the first and last 25 years as
 
 $$\gamma variable_{2,25}=\dfrac{\sum_{t=2}^{25} \alpha\overline{\Delta}variable}{\sum_{t=2}^{25} \overline{\Delta}Y}$$
+
+and:
+
+$$\gamma variable_{26,50}=\dfrac{\sum_{t=26}^{50} \alpha\overline{\Delta}variable}{\sum_{t=26}^{50} \overline{\Delta}Y}$$
