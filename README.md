@@ -38,4 +38,4 @@ With this $\Delta$ we take the average for the first 25 years and the last 25 ye
 
 Finally, We define the contribution of each variable to the GDP growth for the first and last 25 years as
 
-$$\gamma K_{2,25}=\dfrac{\sum_{t=2}^{25} \alpha\overline{\Delta }K}{\sum_{t=2}^{25} \overline{\Delta }Y}$$
+$$\gamma K_{2,25}=\dfrac{\sum _{t=2}^{25} \alpha\overline{\Delta }K}{\sum _{t=2}^{25} \overline{\Delta }Y}$$
