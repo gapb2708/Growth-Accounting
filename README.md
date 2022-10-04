@@ -1,6 +1,6 @@
 # Growth Accounting
 
-In this repository we analyze the economic growth Accounting for hypothetical countries.
+In this repository we analyze the economic growth Accounting for hypothetical countries. The datasets are contained in excel files.
 
 First, we have a data set of the GDP per capita for each country. All countries start at the same level.
 
