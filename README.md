@@ -30,11 +30,7 @@ $$\alpha =1-\dfrac{W_tL_t}{Y_t}$$
 
 With this we can know compute the TPF as a Solow Residual:
 
-<<<<<<< HEAD
 $$A=\dfrac{Y_t}{K_t^{\alpha}L_t^{1-\alpha}}$$
-=======
-A=\dfrac{Y_t}{K_t^{\alpha}L_t^{1-\alpha}}
->>>>>>> 081723b9867663600fd801157e01b17801a0de61
 
 We take the logarithm for each parameter: K, L, A, Y. And proceed to compute the logarithmic difference ($\Delta$) for $t-1$ and $t$
 
@@ -43,8 +39,4 @@ With this $\Delta$ we take the average for the first 25 years and the last 25 ye
 Finally, We define the contribution of each variable to the GDP growth for the first and last 25 years as
 
 $$dfrac{\gamma K_{2,25}=\sum ^{25}_{t=2}\alpha\Hat_Delta K}{
-<<<<<<< HEAD
 {\sum ^{25}_{t=2}\Hat_Delta Y}$$
-=======
-{\sum ^{25}_{t=2}\Hat_Delta Y}
->>>>>>> 081723b9867663600fd801157e01b17801a0de61
